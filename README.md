@@ -1,8 +1,6 @@
 # Multi-Robots-System
 
 
-# Multi-Robot System
-
 ## Overview
 This project implements a multi-robot system consisting of multiple robots with Mecanum wheels that communicate and coordinate to perform tasks such as formation control.
 
