@@ -61,10 +61,16 @@ The project is divided into **three main codes**:
 
 ---
 
-## 📸 Demo
+## 📸 Demo (pics and videos of the final result)
  ![1c46176b-e96d-4f85-8c87-fb7a06fd406c](https://github.com/user-attachments/assets/9327528a-3a3d-4720-922f-87a3bea7748f)
 
+ video links: 
+ https://youtu.be/gWvH3oarOw4
+ https://youtu.be/p_ECw-n_ZIg
+ https://youtu.be/rD1lK1Pv0eA
+
 ---
+
 
 ## 👩‍💻 Author
 **Raghad**  
